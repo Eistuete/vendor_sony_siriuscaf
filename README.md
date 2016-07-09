@@ -1,4 +1,4 @@
 # vendor_sony_siriuscaf
-CAF FROM CANCRO 
+<< CAF FROM CANCRO>>> 
 FIXED BUG WITH AUDIOFX
-WIP WITH CAMERA BLOBS
+and hopefully CAMERA
